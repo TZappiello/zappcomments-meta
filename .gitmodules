@@ -1,0 +1,6 @@
+[submodule "microservices/zappcomments-ModerationService"]
+	path = microservices/zappcomments-ModerationService
+	url = https://github.com/TZappiello/zappcomments-ModerationService.git
+[submodule "microservices/zappcomments-CommentService"]
+	path = microservices/zappcomments-CommentService
+	url = https://github.com/TZappiello/zappcomments-CommentService.git
