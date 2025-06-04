@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ZappcommentsCommentServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <module name="zappcomments-CommentService.main" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.zappcomments.zappcomments.commentservice.ZappcommentsCommentServiceApplication" />
+    <option name="VM_PARAMETERS" value="-XX:MaxRAM=256m" />
+    <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/microservices/zappcomments-CommentService" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
