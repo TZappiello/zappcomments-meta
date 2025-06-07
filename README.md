@@ -64,7 +64,7 @@ A comunicação entre os serviços é feita de forma síncrona via HTTP, com tra
 
 Você pode importar a collection no Postman para testar todos os endpoints facilmente:
 
-📥 [Download da Collection](./postman/AlgaComments.postman_collection.json)
+📥 [Download da Collection](./postman/ZappComments.postman_collection.json)
 
 > A pasta `postman/` contém a collection e ambientes configurados.
 
